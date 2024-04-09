@@ -1,2 +1,2 @@
 # API-REST
-Proyecto demo de verano. Spring Boot + Spring Security + JWT
+Proyecto demo de verano. Spring Boot + Spring Security + JWT (faltante)
